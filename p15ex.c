@@ -39,7 +39,7 @@ void main()
     int gd, gm;
 
     detectgraph(&gd, &gm);
-    initgraph(&gd, &gm, "C:\\TURBOC3\\BGI");
+    initgraph(&gd, &gm, "C:\\TC\\BGI");
 
     bezier();
 }
